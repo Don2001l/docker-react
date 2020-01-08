@@ -11,7 +11,7 @@ function App() {
          Welcome to REACT Development
         </p>
         <p>
-          To change this Screen Edit <code>src/App.js</code> and save to reload
+          Changes to this screen can be made by Editing <code>src/App.js</code> and save to reload
         </p>
         <a
           className="App-link"
