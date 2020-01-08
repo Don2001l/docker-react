@@ -15,5 +15,5 @@ RUN npm run build
 
 #Prod run image
 FROM nginx
-
+EXPOSE 3030
 COPY --from=appbuild /app/build /usr/share/nginx/html
